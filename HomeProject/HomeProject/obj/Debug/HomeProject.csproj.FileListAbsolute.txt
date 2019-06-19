@@ -1,0 +1,10 @@
+C:\Users\ПК\source\repos\HomeProject\HomeProject\bin\Debug\HomeProject.exe.config
+C:\Users\ПК\source\repos\HomeProject\HomeProject\bin\Debug\HomeProject.exe
+C:\Users\ПК\source\repos\HomeProject\HomeProject\bin\Debug\HomeProject.pdb
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.Form1.resources
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.Properties.Resources.resources
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.exe
+C:\Users\ПК\source\repos\HomeProject\HomeProject\obj\Debug\HomeProject.pdb
